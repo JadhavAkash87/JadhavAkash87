@@ -4,82 +4,113 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Sky Jadhav | DevOps Profile</title>
+<title>Sky Jadhav | DevOps Portfolio</title>
 
 <style>
+
 body{
-font-family: Arial, sans-serif;
-background:#0f172a;
-color:white;
-margin:0;
-padding:0;
-text-align:center;
+    font-family: Arial, sans-serif;
+    margin:0;
+    background:#0f172a;
+    color:white;
 }
 
 header{
-background:#111827;
-padding:40px;
+    background:#1e293b;
+    text-align:center;
+    padding:40px;
 }
 
-h1{
-color:#f59e0b;
+header h1{
+    color:#f59e0b;
+}
+
+nav{
+    text-align:center;
+    background:#111827;
+    padding:15px;
+}
+
+nav a{
+    color:white;
+    margin:15px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:#f59e0b;
 }
 
 section{
-padding:40px;
+    padding:40px;
+    text-align:center;
 }
 
 .line{
-height:3px;
-background:#f59e0b;
-width:80%;
-margin:auto;
+    width:80%;
+    height:3px;
+    background:#f59e0b;
+    margin:auto;
 }
 
 .tools img{
-width:50px;
-margin:10px;
+    width:50px;
+    margin:10px;
+}
+
+.project{
+    background:#1e293b;
+    padding:20px;
+    margin:20px;
+    border-radius:10px;
 }
 
 button{
-padding:10px 20px;
-border:none;
-background:#f59e0b;
-color:black;
-font-weight:bold;
-cursor:pointer;
+    background:#f59e0b;
+    border:none;
+    padding:10px 20px;
+    font-weight:bold;
+    cursor:pointer;
 }
 
 footer{
-background:#111827;
-padding:20px;
+    background:#111827;
+    text-align:center;
+    padding:20px;
 }
-</style>
 
+</style>
 </head>
 
 <body>
 
 <header>
-<h1>👋 Hi there, I'm Sky Jadhav</h1>
+<h1>👋 Hi, I'm Sky Jadhav</h1>
 <p>DevOps Engineer | AWS | Linux Enthusiast</p>
 </header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Projects</a>
+<a href="#">Contact</a>
+</nav>
 
 <div class="line"></div>
 
 <section>
+
 <h2>🚀 About Me</h2>
 
 <p>
-I'm a BCA graduate and passionate about DevOps, Linux, Cloud Computing,
-CI/CD pipelines and automation.
+I am a BCA graduate and passionate about DevOps, Cloud Computing,
+Linux, and automation technologies.
 </p>
 
-<ul style="list-style:none;">
-<li>🌱 Learning DevOps, AWS, Terraform</li>
-<li>☁️ Interested in Cloud Infrastructure</li>
-<li>💻 Love working with Linux</li>
-</ul>
+<p>
+Currently learning AWS, Terraform, Docker, and Kubernetes.
+</p>
 
 </section>
 
@@ -87,15 +118,20 @@ CI/CD pipelines and automation.
 
 <section>
 
-<h2>🛠 Languages & Tools</h2>
+<h2>🛠 Tools & Technologies</h2>
 
 <div class="tools">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 </div>
@@ -108,14 +144,20 @@ CI/CD pipelines and automation.
 
 <h2>📂 Projects</h2>
 
+<div class="project">
 <h3>Myntra Clone</h3>
 <p>HTML | CSS | JavaScript | React | Node.js</p>
+</div>
 
+<div class="project">
 <h3>Netflix Clone</h3>
 <p>HTML | CSS | JavaScript | React | Firebase</p>
+</div>
 
+<div class="project">
 <h3>ChatGPT Project</h3>
-<p>Python | OpenAI API | Flask</p>
+<p>Python | Flask | OpenAI API</p>
+</div>
 
 </section>
 
@@ -123,19 +165,13 @@ CI/CD pipelines and automation.
 
 <section>
 
-<h2>📫 Connect With Me</h2>
+<h2>📫 Contact</h2>
 
-<p>
-<a href="https://www.linkedin.com/in/mitali-kadam-aaa178364/">
+<p>Email: mitalikadam53@example.com</p>
+
+<a href="https://linkedin.com">
 <button>LinkedIn</button>
 </a>
-</p>
-
-<p>
-<a href="mailto:mitalikadam53@example.com">
-<button>Email</button>
-</a>
-</p>
 
 </section>
 
