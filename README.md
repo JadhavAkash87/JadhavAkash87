@@ -1,112 +1,149 @@
-<h3 align="center">🚀 DevOps Engineer | ☁️ AWS Cloud Enthusiast | 🐧 Linux Lover</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<p align="center">
-Welcome to my GitHub Profile!
-</p>
+<title>Sky Jadhav | DevOps Profile</title>
 
-<p align="center">
-I am passionate about DevOps, Cloud Computing, and Automation.
-<br>
-I enjoy building scalable cloud infrastructure and implementing CI/CD pipelines using modern DevOps tools.
-</p>
+<style>
+body{
+font-family: Arial, sans-serif;
+background:#0f172a;
+color:white;
+margin:0;
+padding:0;
+text-align:center;
+}
 
----
+header{
+background:#111827;
+padding:40px;
+}
 
-<h2 align="center">👤 Profile Picture</h2>
+h1{
+color:#f59e0b;
+}
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/your-id?v=4" width="180"/>
-</p>
+section{
+padding:40px;
+}
 
----
+.line{
+height:3px;
+background:#f59e0b;
+width:80%;
+margin:auto;
+}
 
-## 🚀 About Me
+.tools img{
+width:50px;
+margin:10px;
+}
 
-- 🔭 Currently working on DevOps and AWS projects  
-- 🌱 Learning Kubernetes, Terraform, and Cloud Automation  
-- 💻 Love working with Linux and Cloud Infrastructure  
-- 📚 Always learning new DevOps technologies  
+button{
+padding:10px 20px;
+border:none;
+background:#f59e0b;
+color:black;
+font-weight:bold;
+cursor:pointer;
+}
 
----
+footer{
+background:#111827;
+padding:20px;
+}
+</style>
 
-## 🛠️ DevOps Tools
+</head>
+
+<body>
+
+<header>
+<h1>👋 Hi there, I'm Sky Jadhav</h1>
+<p>DevOps Engineer | AWS | Linux Enthusiast</p>
+</header>
+
+<div class="line"></div>
+
+<section>
+<h2>🚀 About Me</h2>
 
 <p>
-<img src="https://img.shields.io/badge/Linux-OS-black"/>
-<img src="https://img.shields.io/badge/Git-VersionControl-orange"/>
-<img src="https://img.shields.io/badge/Docker-Container-blue"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue"/>
-<img src="https://img.shields.io/badge/Jenkins-CI/CD-red"/>
-<img src="https://img.shields.io/badge/Terraform-IaC-purple"/>
-<img src="https://img.shields.io/badge/Ansible-Automation-red"/>
+I'm a BCA graduate and passionate about DevOps, Linux, Cloud Computing,
+CI/CD pipelines and automation.
 </p>
 
----
+<ul style="list-style:none;">
+<li>🌱 Learning DevOps, AWS, Terraform</li>
+<li>☁️ Interested in Cloud Infrastructure</li>
+<li>💻 Love working with Linux</li>
+</ul>
 
-## ☁️ AWS Cloud Skills
+</section>
 
-- Amazon EC2
-- Amazon S3
-- AWS IAM
-- AWS VPC
-- AWS EKS
-- AWS CloudWatch
-- AWS Elastic Load Balancer
-- AWS Route53
-- AWS Auto Scaling
+<div class="line"></div>
 
----
+<section>
 
-## 💻 Programming & Scripting
+<h2>🛠 Languages & Tools</h2>
 
-- Python
-- Bash
-- Shell Scripting
-- YAML
-- JSON
+<div class="tools">
 
----
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
-## 📊 GitHub Statistics
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+</section>
+
+<div class="line"></div>
+
+<section>
+
+<h2>📂 Projects</h2>
+
+<h3>Myntra Clone</h3>
+<p>HTML | CSS | JavaScript | React | Node.js</p>
+
+<h3>Netflix Clone</h3>
+<p>HTML | CSS | JavaScript | React | Firebase</p>
+
+<h3>ChatGPT Project</h3>
+<p>Python | OpenAI API | Flask</p>
+
+</section>
+
+<div class="line"></div>
+
+<section>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/mitali-kadam-aaa178364/">
+<button>LinkedIn</button>
+</a>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark"/>
+<p>
+<a href="mailto:mitalikadam53@example.com">
+<button>Email</button>
+</a>
 </p>
 
----
+</section>
 
-## 📈 Top Languages
+<footer>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/>
-</p>
+<p>© 2026 Sky Jadhav | DevOps Portfolio</p>
 
----
+</footer>
 
-## 🧰 DevOps Workflow
-
-Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → AWS Cloud
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your@email.com
-
----
-
-## ⭐ Support
-
-If you like my work, please ⭐ star my repositories and follow my GitHub profile.
-
-Thank you for visiting my profile!
+</body>
+</html>
