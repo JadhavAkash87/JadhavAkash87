@@ -1,4 +1,4 @@
-👋 Hi there, I'm SKY JADHAV!
+I'm SKY JADHAV!
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7AB0A&width=700&lines=Hello+World+%F0%9F%8C%8E;Welcome+to+my+profile+%F0%9F%99%8C;Happy+to+see+you+here+%F0%9F%98%8A;Have+a+great+day+%F0%9F%8C%9F)
 
 ---
@@ -11,7 +11,7 @@ I love exploring *Cloud Computing, CI/CD, Automation, and Linux*.
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/mitali-kadam-aaa178364/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitalikadam53@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akashjadhav8798@outlo.com)
 
 ---
 
